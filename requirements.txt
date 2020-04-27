@@ -1,0 +1,4 @@
+pyserial==3.4
+npyscreen==4.10.5
+apscheduler==3.6.3
+pynput==1.6.8
